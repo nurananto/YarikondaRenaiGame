@@ -1,2 +1,2 @@
-# YarikondaRenaiGame
-Manga Yarikonda Renai Game no Akuyaku ni Tensei shitanode, Gensaku Chishiki de Heroine wo Kouryaku shimasu
+# MadogiwaHenshuu
+Manga Madogiwa Henshuu to Baka ni Sareta Ore ga, Futago JK to Doukyo suru Koto ni Natta
