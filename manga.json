@@ -346,9 +346,9 @@
       "chapter": 6.4,
       "folder": "6.4",
       "uploadDate": "2025-10-26",
-      "totalPages": 0,
-      "pages": 0,
-      "locked": true,
+      "totalPages": 11,
+      "pages": 11,
+      "locked": false,
       "views": 0
     },
     "6.5": {
@@ -362,6 +362,6 @@
       "views": 0
     }
   },
-  "lastUpdated": "2025-10-29T15:18:33.487Z",
+  "lastUpdated": "2025-10-29T15:23:31.437Z",
   "lastChapterUpdate": "2025-10-26"
 }
