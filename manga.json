@@ -33,7 +33,7 @@
   "chapters": {
     "1": {
       "title": "Chapter 1",
-      "chapter": 1.0,
+      "chapter": 1,
       "folder": "1",
       "uploadDate": "2025-10-26",
       "totalPages": 81,
@@ -343,21 +343,25 @@
     },
     "6.4": {
       "title": "Chapter 6.4",
+      "chapter": 6.4,
       "folder": "6.4",
-      "pages": 0,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": true
+      "totalPages": 0,
+      "pages": 0,
+      "locked": true,
+      "views": 0
     },
     "6.5": {
       "title": "Chapter 6.5",
+      "chapter": 6.5,
       "folder": "6.5",
-      "pages": 0,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": true
+      "totalPages": 0,
+      "pages": 0,
+      "locked": true,
+      "views": 0
     }
   },
-  "lastChapterUpdate": "2025-10-26",
-  "lastUpdated": "2025-10-29T01:46:36.181321Z"
+  "lastUpdated": "2025-10-29T15:18:33.487Z",
+  "lastChapterUpdate": "2025-10-26"
 }
