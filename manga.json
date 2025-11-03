@@ -326,7 +326,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 0
+      "views": 12
     },
     "6.3": {
       "title": "Chapter 6.3",
@@ -346,19 +346,19 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 38
+      "views": 51
     },
     "6.5": {
       "title": "Chapter 6.5",
       "chapter": 6.5,
       "folder": "6.5",
-      "uploadDate": "2025-11-02T09:20:32+07:00",
+      "uploadDate": "2025-11-03T09:19:54+07:00",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
       "views": 11
     }
   },
-  "lastUpdated": "2025-11-02T09:20:32+07:00",
+  "lastUpdated": "2025-11-03T09:19:54+07:00",
   "lastChapterUpdate": "2025-10-29T22:23:09+07:00"
 }
