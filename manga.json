@@ -15,7 +15,7 @@
       "Isekai"
     ],
     "status": "Ongoing",
-    "views": 164,
+    "views": 201,
     "links": {
       "mangadex": "https://mangadex.org/title/a605a5d0-21a6-481f-a055-74735ea4f2c2/yarikonda-renai-game-no-akuyaku-ni-tensei-shitanode-gensaku-chishiki-de-heroine-wo-kouryaku-shimasu",
       "raw": "https://www.manga-up.com/titles/1518"
@@ -336,7 +336,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 12
+      "views": 23
     },
     "6.4": {
       "title": "Chapter 6.4",
@@ -346,19 +346,19 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 51
+      "views": 69
     },
     "6.5": {
       "title": "Chapter 6.5",
       "chapter": 6.5,
       "folder": "6.5",
-      "uploadDate": "2025-11-04T09:14:56+07:00",
+      "uploadDate": "2025-11-05T09:16:51+07:00",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
       "views": 11
     }
   },
-  "lastUpdated": "2025-11-04T09:14:57+07:00",
+  "lastUpdated": "2025-11-05T09:16:51+07:00",
   "lastChapterUpdate": "2025-10-29T22:23:09+07:00"
 }
