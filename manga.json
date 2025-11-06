@@ -266,7 +266,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 0
+      "views": 10
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -296,7 +296,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 0
+      "views": 10
     },
     "5.5": {
       "title": "Chapter 5.5",
@@ -306,7 +306,7 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 0
+      "views": 10
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -316,7 +316,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 11
+      "views": 21
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -352,13 +352,13 @@
       "title": "Chapter 6.5",
       "chapter": 6.5,
       "folder": "6.5",
-      "uploadDate": "2025-11-05T09:16:51+07:00",
+      "uploadDate": "2025-11-06T09:17:01+07:00",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
       "views": 11
     }
   },
-  "lastUpdated": "2025-11-05T09:16:51+07:00",
+  "lastUpdated": "2025-11-06T09:17:01+07:00",
   "lastChapterUpdate": "2025-10-29T22:23:09+07:00"
 }
