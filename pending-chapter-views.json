@@ -31,24 +31,24 @@
       "lastUpdate": "2025-11-15T09:12:46+07:00"
     },
     "2.6": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-18T13:08:06.219Z",
-      "lastUpdate": "2025-11-15T09:12:46+07:00"
+      "lastUpdate": "2025-11-19T00:40:57+07:00"
     },
     "2.7": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-18T13:08:40.537Z",
-      "lastUpdate": "2025-11-15T09:12:46+07:00"
+      "lastUpdate": "2025-11-19T00:40:57+07:00"
     },
     "2.8": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-18T13:09:09.918Z",
-      "lastUpdate": "2025-11-15T09:12:46+07:00"
+      "lastUpdate": "2025-11-19T00:40:57+07:00"
     },
     "3.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-18T13:09:35.122Z",
-      "lastUpdate": "2025-11-16T09:22:27+07:00"
+      "lastUpdate": "2025-11-19T00:40:57+07:00"
     },
     "3.2": {
       "pendingViews": 0,
@@ -141,9 +141,9 @@
       "lastUpdate": "2025-11-18T09:15:54+07:00"
     },
     "6.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-18T15:14:22.826Z",
-      "lastUpdate": "2025-11-18T09:15:54+07:00"
+      "lastUpdate": "2025-11-19T00:40:57+07:00"
     },
     "6.2": {
       "pendingViews": 0,
@@ -161,14 +161,14 @@
       "lastUpdate": "2025-11-17T09:17:53+07:00"
     },
     "6.5": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-18T10:22:01.478Z",
-      "lastUpdate": "2025-11-17T09:17:53+07:00"
+      "lastUpdate": "2025-11-19T00:40:57+07:00"
     },
     "7.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-18T14:17:49.516Z",
-      "lastUpdate": "2025-11-17T09:17:53+07:00"
+      "lastUpdate": "2025-11-19T00:40:57+07:00"
     },
     "7.2": {
       "pendingViews": 0,
@@ -176,5 +176,5 @@
       "lastUpdate": "2025-11-17T09:17:53+07:00"
     }
   },
-  "lastUpdated": "2025-11-18T09:15:54+07:00"
+  "lastUpdated": "2025-11-19T00:40:57+07:00"
 }
