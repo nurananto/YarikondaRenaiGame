@@ -5,6 +5,11 @@ on:
     paths:
       - '**/manifest.json'
       - 'manga-config.json'
+  
+  # ✅ AUTO-UPDATE SETIAP 24 JAM (00:00 WIB = 17:00 UTC)
+  schedule:
+    - cron: '0 17 * * *'  # Setiap hari jam 00:00 WIB (midnight)
+  
   workflow_dispatch:
 
 jobs:
@@ -165,3 +170,8 @@ jobs:
           echo "   - New chapters (manifest.json)"
           echo "   - Config changes (manga-config.json)"
           echo "   - Chapter content changes"
+          echo ""
+          if [ "${{ github.event_name }}" == "schedule" ]; then
+            echo "ℹ️ This was a scheduled run (daily view update)"
+            echo "   Views updated but no website rebuild needed"
+          fi
