@@ -166,20 +166,25 @@
       "lastUpdate": "2025-12-03T00:21:02+07:00"
     },
     "7.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-02T21:31:53.986Z",
-      "lastUpdate": "2025-12-03T00:21:02+07:00"
+      "lastUpdate": "2025-12-03T06:17:08+07:00"
     },
     "7.2": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-02T21:32:25.835Z",
-      "lastUpdate": "2025-12-03T00:21:02+07:00"
+      "lastUpdate": "2025-12-03T06:17:08+07:00"
     },
     "7.3": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-02T19:56:25.752Z",
-      "lastUpdate": "2025-12-02T00:19:55+07:00"
+      "lastUpdate": "2025-12-03T06:17:08+07:00"
+    },
+    "7.4": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-12-03T06:17:08+07:00",
+      "lastUpdate": "2025-12-03T06:17:08+07:00"
     }
   },
-  "lastUpdated": "2025-12-03T00:21:02+07:00"
+  "lastUpdated": "2025-12-03T06:17:08+07:00"
 }
