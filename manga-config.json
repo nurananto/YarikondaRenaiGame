@@ -1,4 +1,5 @@
 {
+  "type": "manga",
   "title": "Yarikonda Renai Game no Akuyaku ni Tensei shitanode, Gensaku Chishiki de Heroine wo Kouryaku shimasu",
   "alternativeTitle": "やり込んだ恋愛ゲームの悪役に転生したので、原作知識でヒロインを攻略します",
   "cover": "https://cdn.nuranantoscans.my.id/covers/yarikonda-eaecd9b5-0510-46aa-b65c-a09611fa912b.webp",
@@ -13,8 +14,8 @@
     "Slice of Life",
     "Isekai"
   ],
-  "status": "Ongoing",
-  "views": 0,
+  "status": "ONGOING",
+  "endChapter": null,
   "links": {
     "mangadex": "https://mangadex.org/title/a605a5d0-21a6-481f-a055-74735ea4f2c2/yarikonda-renai-game-no-akuyaku-ni-tensei-shitanode-gensaku-chishiki-de-heroine-wo-kouryaku-shimasu",
     "raw": "https://www.manga-up.com/titles/1518"
