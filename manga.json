@@ -14,8 +14,8 @@
       "Slice of Life",
       "Isekai"
     ],
-    "status": "Ongoing",
-    "views": 675,
+    "status": "ONGOING",
+    "views": 682,
     "links": {
       "mangadex": "https://mangadex.org/title/a605a5d0-21a6-481f-a055-74735ea4f2c2/yarikonda-renai-game-no-akuyaku-ni-tensei-shitanode-gensaku-chishiki-de-heroine-wo-kouryaku-shimasu",
       "raw": "https://www.manga-up.com/titles/1518"
@@ -26,7 +26,8 @@
     "lockedChapters": [
       "7.3",
       "7.4"
-    ]
+    ],
+    "type": "manga"
   },
   "chapters": {
     "1": {
@@ -37,7 +38,7 @@
       "totalPages": 81,
       "pages": 81,
       "locked": false,
-      "views": 115
+      "views": 119
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -47,7 +48,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 41
+      "views": 44
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -57,7 +58,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 32
+      "views": 34
     },
     "2.3": {
       "title": "Chapter 2.3",
@@ -67,7 +68,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 22
+      "views": 24
     },
     "2.4": {
       "title": "Chapter 2.4",
@@ -77,7 +78,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 19
+      "views": 22
     },
     "2.5": {
       "title": "Chapter 2.5",
@@ -357,7 +358,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 51
+      "views": 52
     },
     "7.1": {
       "title": "Chapter 7.1",
@@ -367,7 +368,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 157
+      "views": 160
     },
     "7.2": {
       "title": "Chapter 7.2",
@@ -377,7 +378,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 197
+      "views": 207
     },
     "7.3": {
       "title": "Chapter 7.3",
@@ -387,7 +388,7 @@
       "totalPages": 0,
       "pages": 0,
       "locked": true,
-      "views": 55
+      "views": 60
     },
     "7.4": {
       "title": "Chapter 7.4",
@@ -397,9 +398,9 @@
       "totalPages": 0,
       "pages": 0,
       "locked": true,
-      "views": 33
+      "views": 35
     }
   },
-  "lastUpdated": "2025-12-12T00:24:35+07:00",
+  "lastUpdated": "2025-12-12T14:04:43+07:00",
   "lastChapterUpdate": "2025-12-03T06:17:08+07:00"
 }
