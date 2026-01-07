@@ -2,14 +2,13 @@
  * MANGA-AUTOMATION.JS - COMPLETE MERGED VERSION
  * ✅ Manifest-based detection (Script 1)
  * ✅ Oneshot support (Script 1)
- * ✅ Locked chapters (webtoon logic for all types)
+ * ✅ Locked chapters (logic for all types)
  * ✅ EndChapter logic (Script 2)
  * ✅ WIB Timezone (GMT+7)
  * ✅ Fixed: Daily views recording for new manga
  * 
  * Usage:
  * node manga-automation.js generate        → Generate manga.json
- * node manga-automation.js sync            → Sync chapters
  * node manga-automation.js update-views    → Update manga views
  * node manga-automation.js update-chapters → Update chapter views
  * node manga-automation.js record-daily    → Record daily views
@@ -305,7 +304,7 @@ function generateChaptersData(config, oldMangaData, isFirstTime) {
         
         const isInLockedList = config.lockedChapters.includes(chapterName);
 
-        // ✅ All types use webtoon logic: only check if in lockedChapters list
+        // ✅ All types use locked logic: only check if in lockedChapters list
         const isLocked = isInLockedList;
         
         let uploadDate;
@@ -467,69 +466,7 @@ function commandGenerate() {
 }
 
 // ============================================
-// COMMAND 2: SYNC CHAPTERS
-// ============================================
-
-function commandSync() {
-    console.log('🔄 Starting chapter sync...\n');
-    
-    const mangaData = loadJSON('manga.json');
-    
-    if (!mangaData || !mangaData.chapters) {
-        console.error('❌ No chapters found in manga.json');
-        process.exit(1);
-    }
-    
-    console.log(`📚 manga.json found with ${Object.keys(mangaData.chapters).length} chapters`);
-    
-    let pendingData = {
-        chapters: {},
-        lastUpdated: getWIBTimestamp()
-    };
-    
-    const existingPending = loadJSON('pending-chapter-views.json');
-    if (existingPending) {
-        console.log('📖 Found existing pending-chapter-views.json');
-        pendingData.chapters = existingPending.chapters || {};
-    } else {
-        console.log('📖 Creating new pending-chapter-views.json');
-    }
-    
-    let addedCount = 0;
-    const totalChapters = Object.keys(mangaData.chapters).length;
-    
-    console.log('\n📋 Syncing chapters:');
-    
-    Object.keys(mangaData.chapters).forEach(chapterKey => {
-        if (!pendingData.chapters[chapterKey]) {
-            pendingData.chapters[chapterKey] = {
-                pendingViews: 0,
-                lastIncrement: getWIBTimestamp(),
-                lastUpdate: getWIBTimestamp()
-            };
-            const icon = isOneshotFolder(chapterKey) ? '🎯' : '✔';
-            console.log(`  ${icon} Added new chapter: ${chapterKey}`);
-            addedCount++;
-        } else {
-            const icon = isOneshotFolder(chapterKey) ? '🎯' : '✔';
-            console.log(`  ${icon} Chapter ${chapterKey} already exists`);
-        }
-    });
-    
-    pendingData.lastUpdated = getWIBTimestamp();
-    
-    if (saveJSON('pending-chapter-views.json', pendingData)) {
-        console.log(`\n✅ Sync completed!`);
-        console.log(`📊 Total chapters: ${totalChapters}`);
-        console.log(`📈 New chapters added: ${addedCount}`);
-        console.log(`🕐 Last updated: ${pendingData.lastUpdated}`);
-    } else {
-        process.exit(1);
-    }
-}
-
-// ============================================
-// COMMAND 3: UPDATE MANGA VIEWS
+// COMMAND 2: UPDATE MANGA VIEWS
 // ============================================
 
 function commandUpdateViews() {
@@ -572,7 +509,7 @@ function commandUpdateViews() {
 }
 
 // ============================================
-// COMMAND 4: UPDATE CHAPTER VIEWS
+// COMMAND 3: UPDATE CHAPTER VIEWS
 // ============================================
 
 function commandUpdateChapterViews() {
@@ -755,16 +692,13 @@ function main() {
     console.log('║ ✅ WIB Timezone (GMT+7)              ║');
     console.log('║ ✅ Manifest-based Detection          ║');
     console.log('║ 🎯 Oneshot Support                   ║');
-    console.log('║ 🔒 Locked Chapters (webtoon logic)    ║');
+    console.log('║ 🔒 Locked Chapters                    ║');
     console.log('║ 🐛 Fixed: Daily views for new manga  ║');
     console.log('╚═══════════════════════════════════════╝\n');
     
     switch (command) {
         case 'generate':
             commandGenerate();
-            break;
-        case 'sync':
-            commandSync();
             break;
         case 'update-views':
             commandUpdateViews();
@@ -781,7 +715,6 @@ function main() {
         default:
             console.log('Usage:');
             console.log('  node manga-automation.js generate        → Generate manga.json');
-            console.log('  node manga-automation.js sync            → Sync chapters');
             console.log('  node manga-automation.js update-views    → Update manga views');
             console.log('  node manga-automation.js update-chapters → Update chapter views');
             console.log('  node manga-automation.js record-daily    → Record daily views');
