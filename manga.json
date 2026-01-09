@@ -15,7 +15,7 @@
       "Isekai"
     ],
     "status": "ONGOING",
-    "views": 1434,
+    "views": 1493,
     "links": {
       "mangadex": "https://mangadex.org/title/a605a5d0-21a6-481f-a055-74735ea4f2c2/yarikonda-renai-game-no-akuyaku-ni-tensei-shitanode-gensaku-chishiki-de-heroine-wo-kouryaku-shimasu",
       "raw": "https://www.manga-up.com/titles/1518"
@@ -25,7 +25,8 @@
     "imageFormat": "webp",
     "lockedChapters": [
       "8.1",
-      "8.2"
+      "8.2",
+      "8.3"
     ],
     "type": "manga"
   },
@@ -38,7 +39,7 @@
       "totalPages": 81,
       "pages": 81,
       "locked": false,
-      "views": 316
+      "views": 325
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -48,7 +49,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 106
+      "views": 107
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -78,7 +79,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 77
+      "views": 79
     },
     "2.5": {
       "title": "Chapter 2.5",
@@ -88,7 +89,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 65
+      "views": 66
     },
     "2.6": {
       "title": "Chapter 2.6",
@@ -98,7 +99,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 62
+      "views": 63
     },
     "2.7": {
       "title": "Chapter 2.7",
@@ -108,7 +109,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 63
+      "views": 64
     },
     "2.8": {
       "title": "Chapter 2.8",
@@ -118,7 +119,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 62
+      "views": 64
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -128,7 +129,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 63
+      "views": 68
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -138,7 +139,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 61
+      "views": 63
     },
     "3.3": {
       "title": "Chapter 3.3",
@@ -148,7 +149,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 49
+      "views": 52
     },
     "3.4": {
       "title": "Chapter 3.4",
@@ -158,7 +159,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 49
+      "views": 50
     },
     "3.5": {
       "title": "Chapter 3.5",
@@ -168,7 +169,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 51
+      "views": 53
     },
     "3.6": {
       "title": "Chapter 3.6",
@@ -178,7 +179,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 47
+      "views": 49
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -188,7 +189,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 53
+      "views": 54
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -258,7 +259,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 51
+      "views": 52
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -278,7 +279,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 55
+      "views": 56
     },
     "5.3": {
       "title": "Chapter 5.3",
@@ -308,7 +309,7 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 58
+      "views": 59
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -318,7 +319,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 85
+      "views": 88
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -328,7 +329,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 65
+      "views": 66
     },
     "6.3": {
       "title": "Chapter 6.3",
@@ -338,7 +339,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 65
+      "views": 66
     },
     "6.4": {
       "title": "Chapter 6.4",
@@ -358,7 +359,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 97
+      "views": 98
     },
     "7.1": {
       "title": "Chapter 7.1",
@@ -368,7 +369,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 212
+      "views": 213
     },
     "7.2": {
       "title": "Chapter 7.2",
@@ -378,7 +379,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 276
+      "views": 278
     },
     "7.3": {
       "title": "Chapter 7.3",
@@ -388,7 +389,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 255
+      "views": 257
     },
     "7.4": {
       "title": "Chapter 7.4",
@@ -398,7 +399,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 204
+      "views": 218
     },
     "8.1": {
       "title": "Chapter 8.1",
@@ -408,7 +409,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": true,
-      "views": 85
+      "views": 102
     },
     "8.2": {
       "title": "Chapter 8.2",
@@ -418,9 +419,19 @@
       "totalPages": 10,
       "pages": 10,
       "locked": true,
-      "views": 28
+      "views": 31
+    },
+    "8.3": {
+      "title": "Chapter 8.3",
+      "chapter": 8.3,
+      "folder": "8.3",
+      "uploadDate": "2026-01-07T18:43:41+07:00",
+      "totalPages": 10,
+      "pages": 10,
+      "locked": true,
+      "views": 11
     }
   },
-  "lastUpdated": "2026-01-07T00:21:49+07:00",
-  "lastChapterUpdate": "2025-12-31T18:06:32+07:00"
+  "lastUpdated": "2026-01-09T00:25:21+07:00",
+  "lastChapterUpdate": "2026-01-07T18:43:41+07:00"
 }
