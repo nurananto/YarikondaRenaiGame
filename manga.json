@@ -15,7 +15,7 @@
       "Isekai"
     ],
     "status": "ONGOING",
-    "views": 1627,
+    "views": 1664,
     "links": {
       "mangadex": "https://mangadex.org/title/a605a5d0-21a6-481f-a055-74735ea4f2c2/yarikonda-renai-game-no-akuyaku-ni-tensei-shitanode-gensaku-chishiki-de-heroine-wo-kouryaku-shimasu",
       "raw": "https://www.manga-up.com/titles/1518"
@@ -24,7 +24,6 @@
     "imagePrefix": "Image",
     "imageFormat": "webp",
     "lockedChapters": [
-      "8.2",
       "8.3"
     ],
     "type": "manga"
@@ -38,7 +37,7 @@
       "totalPages": 81,
       "pages": 81,
       "locked": false,
-      "views": 349
+      "views": 360
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -338,7 +337,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 71
+      "views": 72
     },
     "6.4": {
       "title": "Chapter 6.4",
@@ -368,7 +367,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 218
+      "views": 220
     },
     "7.2": {
       "title": "Chapter 7.2",
@@ -378,7 +377,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 284
+      "views": 285
     },
     "7.3": {
       "title": "Chapter 7.3",
@@ -388,7 +387,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 264
+      "views": 266
     },
     "7.4": {
       "title": "Chapter 7.4",
@@ -398,7 +397,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 238
+      "views": 240
     },
     "8.1": {
       "title": "Chapter 8.1",
@@ -408,7 +407,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 160
+      "views": 165
     },
     "8.2": {
       "title": "Chapter 8.2",
@@ -417,8 +416,8 @@
       "uploadDate": "2025-12-31T18:06:32+07:00",
       "totalPages": 10,
       "pages": 10,
-      "locked": true,
-      "views": 45
+      "locked": false,
+      "views": 52
     },
     "8.3": {
       "title": "Chapter 8.3",
@@ -428,9 +427,9 @@
       "totalPages": 10,
       "pages": 10,
       "locked": true,
-      "views": 32
+      "views": 34
     }
   },
-  "lastUpdated": "2026-01-13T00:21:44+07:00",
+  "lastUpdated": "2026-01-13T23:53:28+07:00",
   "lastChapterUpdate": "2026-01-07T18:43:41+07:00"
 }
