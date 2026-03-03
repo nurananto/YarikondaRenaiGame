@@ -13,9 +13,7 @@
 | Author | Kennoji |
 | Artist | Yuuma Yun |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Seinen · Comedy · Romance · School Life · Slice of Life · Isekai |
-| Chapter | 43 chapter (2 locked) |
 
 ## Link
 
