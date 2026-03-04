@@ -24,7 +24,6 @@
     "imagePrefix": "Image",
     "imageFormat": "webp",
     "lockedChapters": [
-      "8.5",
       "9.1"
     ],
     "type": "manga"
@@ -447,7 +446,7 @@
       "uploadDate": "2026-02-04T19:50:38+07:00",
       "totalPages": 8,
       "pages": 8,
-      "locked": true,
+      "locked": false,
       "views": 31
     },
     "9.1": {
@@ -461,6 +460,6 @@
       "views": 17
     }
   },
-  "lastUpdated": "2026-03-03T19:02:18.192Z",
+  "lastUpdated": "2026-03-04T20:57:50+07:00",
   "lastChapterUpdate": "2026-02-25T19:42:42+07:00"
 }
